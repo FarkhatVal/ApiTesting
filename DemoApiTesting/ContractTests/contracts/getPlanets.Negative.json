@@ -1,0 +1,9 @@
+﻿{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "detail": {"type": "string",
+              "const":  "Not found"},
+     },
+  "required": [ "detail"]
+}

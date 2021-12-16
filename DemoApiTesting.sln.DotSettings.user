@@ -1,0 +1,60 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=241be068_002D7a65_002D4421_002D98c4_002Dc0830523831f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPlanetsContractTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.DZPostReqresTests.DZDemoApiTesting.CheckPostReqresByJsonTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.DZPostReqresTests.DZDemoApiTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3c071d3d_002D3d5a_002D42e8_002Dbdb0_002D1743001d9068/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckContractGetPlanetNegativeOnPageNomberIncorrectNumberTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.DZPostReqresTests.DZDemoApiTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.httpClient.PostPetTests.CheckPostPetTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.httpClient.PostPetTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.GetReqresTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f7a5bce_002D7292_002D4b7a_002Daf6d_002Df43b8a56c155/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetReqresTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.GetReqresTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.DZPostReqresTests.DZDemoApiTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=de95d22d_002Db19e_002D44aa_002Da2ac_002Df1af195ec6d1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DZDemoApiTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.DZPostReqresTests.DZDemoApiTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.GetReqresTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.httpClient.PostPetTests.CheckPostPetTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("one")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("-1")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("7")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting(" ")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting(".")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting(",")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("'")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting(";")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting(":")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("-")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("=")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("+")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("!")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("@")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("#")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("%")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("^")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("&amp;amp;")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("*")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("(")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting(")")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("_")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("`")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests.CheckContractGetPlanetNegativeOnPageNumberIncorrectNumberByStatusCodeTesting("~")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11770565-4388-4D9D-9143-981E26983A9F::net5.0::DemoApiTesting.ContractTests.GetPlanetsContractNegativeTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	</wpf:ResourceDictionary>
