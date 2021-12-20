@@ -50,5 +50,5 @@ namespace DemoApiTesting.httpClient
             var statusCode = response.StatusCode;
             Assert.AreEqual(HttpStatusCode.OK, statusCode, $"Ответ от api {Api} не соответствует ожидаемому");
         }
-    }
+       }
 }

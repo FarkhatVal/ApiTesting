@@ -14,8 +14,17 @@ namespace DemoApiTesting
             [JsonProperty("total_pages")]
             public int? Total_pages { get; set; }
             [JsonProperty("data")] 
-            public Users [] Data { get; set; }}
-        }
+            public Users [] Data { get; set; }
+            
+    }
+    public class NameJob
+    {
+        [JsonProperty("name")]
+        public string Name { get; set; }
+        [JsonProperty("job")]
+        public string Job { get; set; }
+    }
+}
 
          public class Users
          {
@@ -30,3 +39,5 @@ namespace DemoApiTesting
              [JsonProperty("avatar")]
              public string Avatar { get; set; }
          }
+
+

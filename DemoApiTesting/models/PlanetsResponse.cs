@@ -2,7 +2,7 @@
 
 namespace DemoApiTesting
 {
-    public class ResponsePlanets
+    public class PlanetsResponse
     {
         [JsonProperty("count")]
         public int Count { get; set; }

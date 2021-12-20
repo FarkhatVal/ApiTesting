@@ -13,7 +13,7 @@ namespace DemoApiTesting.httpClient
 
         private const string Host = "https://swapi.dev/api";
         private const string Api = "/planets";
-        private ResponsePlanets responsePlanets;
+        private PlanetsResponse planetsResponse;
         
         [OneTimeSetUp]
         public async Task Setup()
@@ -27,31 +27,31 @@ namespace DemoApiTesting.httpClient
             {
                 Assert.Fail($"{Api} отработала некорректно, дальнейшие проверки бессмысленны!");
             }
-            responsePlanets = JsonConvert.DeserializeObject<ResponsePlanets>(stringResponse);
+            planetsResponse = JsonConvert.DeserializeObject<PlanetsResponse>(stringResponse);
         }
 
         [Test]
         public void CheckCountFromPlanetsApiTesting()
         {
-            Assert.AreEqual(60, responsePlanets.Count, "Количество планет не совпадает");
+            Assert.AreEqual(60, planetsResponse.Count, "Количество планет не совпадает");
         }
         
         [Test]
         public void CheckResponseIsNotEmptyFromPlanetsApiTesting()
         {
-            Assert.IsNotNull(responsePlanets, "Ответ от api вернул пустое значение");
+            Assert.IsNotNull(planetsResponse, "Ответ от api вернул пустое значение");
         }
         
         [Test]
         public void CheckResultsIsNotEmptyFromPlanetsApiTesting()
         {
-            Assert.IsNotNull(responsePlanets.Result, "Поле result в ответе от api вернуло пустое значение");
+            Assert.IsNotNull(planetsResponse.Result, "Поле result в ответе от api вернуло пустое значение");
         }
         
         [Test]
         public void CheckNameFromPlanetsApiTesting()
         {
-            Assert.AreEqual("Hoth", responsePlanets.Result[3].Name, "Поле name в ответе от api не соответствует ожидаемому");
+            Assert.AreEqual("Hoth", planetsResponse.Result[3].Name, "Поле name в ответе от api не соответствует ожидаемому");
         }
     }
 }

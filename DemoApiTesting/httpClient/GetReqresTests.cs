@@ -53,4 +53,5 @@ namespace DemoApiTesting
                 Assert.AreEqual("Janet", reqresResponse.Data[1].First_name, "Поле name в ответе от api не соответствует ожидаемому");
             }
         }
+    
     }
